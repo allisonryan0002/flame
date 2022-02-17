@@ -1,4 +1,3 @@
-import 'package:flame/collision_detection.dart';
 import 'package:flame/components.dart';
 import 'package:flame/input.dart';
 import 'package:flame_bloc/flame_bloc.dart';
